@@ -20,7 +20,7 @@ const users = [
 
 ]
 
-
+=
 const func = (users) => {
 		console.log(users)
 		users.forEach(user => {
