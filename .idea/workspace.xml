@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76528daf-f1e3-4ea9-9359-f3dc4c17cdad" name="Default Changelist" comment="" />
+    <list default="true" id="76528daf-f1e3-4ea9-9359-f3dc4c17cdad" name="Default Changelist" comment="Practice1(NodeJS)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,7 @@
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.28" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -52,11 +56,30 @@
       <updated>1613689979399</updated>
       <workItem from="1613689980730" duration="1709000" />
       <workItem from="1613754637349" duration="3394000" />
-      <workItem from="1613827068845" duration="2486000" />
+      <workItem from="1613827068845" duration="3086000" />
     </task>
+    <task id="LOCAL-00001" summary="Practice1(NodeJS)">
+      <created>1613829617308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613829617308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Practice1(NodeJS)">
+      <created>1613829895496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613829895496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practice1(NodeJS)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice1(NodeJS)" />
   </component>
 </project>

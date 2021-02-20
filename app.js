@@ -38,10 +38,10 @@ const func = (users) => {
 						console.log(err)
 						return;
 				}
+
 				files.forEach(file => {
 						fs.readFile(path.join(myPath, file), (err, data) => {
 								const parseUsers = JSON.parse(data);
-								console.log(parseUsers)
 								if (parseUsers.gender === 'male' && parseUsers.age > 20) {
 										fs.rename(path.join(__dirname, 'users', file), path.join(__dirname, 'dir', 'manOlder20', file), err => {
 												if (err) {
